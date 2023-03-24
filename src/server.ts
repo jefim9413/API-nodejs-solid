@@ -6,5 +6,5 @@ app
     port: env.PORT,
   })
   .then(() => {
-    console.log('🚀 HTPP Rerver Running 🚀')
+    console.log('🚀 HTPP Server Running 🚀')
   })
